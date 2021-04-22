@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">M\'ouvre pas</string>
+    <string name="action_settings">Mettages</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Sale fou</string>
+    <string name="second_fragment_label">Je vais te frapper</string>
+    <string name="next">N\'appuie pas ici</string>
+    <string name="previous">Aller arrête tes conneries</string>
+
+    <string name="hello_first_fragment">T\'es con</string>
+    <string name="hello_second_fragment">T\'es vraiment très con</string>
+</resources>
